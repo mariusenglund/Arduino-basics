@@ -3,7 +3,8 @@
     
     A simple program to dim, blink and fade an LED with millis() using a button and a potensiometer.
     
-    The program have 4 modes, which can be changed with the push button:
+    The program have 4 modes, which can be changed with the push button. In each mode the LED acts
+    differently:
     * OFF:      The LED will turn off.
     * DIM:      The LED will dim to the brightness set by the potensiometer.
     * BLINK:    The LED will blink with the frequency set by the potensiometer.
