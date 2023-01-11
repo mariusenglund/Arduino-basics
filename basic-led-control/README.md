@@ -15,7 +15,7 @@ For the active modes, the value of the potensiometer gets printed to the serial 
 
 
 ## Wiring
-![Wiring](images/wiring.png)
+![Wiring](img/wiring.png)
 *Screenshot from Tinkercad.*
 
 
